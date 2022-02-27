@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and propositions of his Excellency the Lord Generall Leven, and divers other eminent commanders of the standing army in the kingdom of Scotland; to the Parliament assembled at Edinburgh, concerning the dis-ingaging of a war with England; as also, touching the Parliament, and army. Likewise, the progresse of the Scots army under the command of the Earl of Calender, with their approach neer the confines of England. And the gallant preparations of Sir Arthur Haslerig, governour of Newcastle. Also, a declaration of the Parliaments army in the kingdome of Ireland, under the command of Colonell Iones, concerning the Lord Inchiquin's disserting the Parliament of England, and declaring for the King. April 20. 1648. Imprimatur Gilb. Mabbott.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88072</idno>
+            <idno type="STC">Wing L1808</idno>
+            <idno type="STC">Thomason E436_12</idno>
+            <idno type="STC">ESTC R204645</idno>
+            <idno type="EEBO-CITATION">99864109</idno>
+            <idno type="PROQUEST">99864109</idno>
+            <idno type="VID">161612</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88072)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161612)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E436[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and propositions of his Excellency the Lord Generall Leven, and divers other eminent commanders of the standing army in the kingdom of Scotland; to the Parliament assembled at Edinburgh, concerning the dis-ingaging of a war with England; as also, touching the Parliament, and army. Likewise, the progresse of the Scots army under the command of the Earl of Calender, with their approach neer the confines of England. And the gallant preparations of Sir Arthur Haslerig, governour of Newcastle. Also, a declaration of the Parliaments army in the kingdome of Ireland, under the command of Colonell Iones, concerning the Lord Inchiquin's disserting the Parliament of England, and declaring for the King. April 20. 1648. Imprimatur Gilb. Mabbott.</title>
+                  <author>R. S.</author>
+                  <author>R. G.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII.[1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact 'Leven's declaration and propositions ..'; consists, rather, of two letters, the first unsigned but dated "Dublin 12. April 1648"; the second dated and signed "Barwick 12 April, 1648. R.S:". A postscript is dated and signed: Barwick 12 April, 1648. R.G.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161612:1" rendition="simple:additions"/>
+            <p>THE DECLARATION AND PROPOSITIONS OF His Excellency the Lord Generall <hi>LEVEN,</hi> and divers other eminent Commanders of the ſtanding Army in the Kingdom of <hi>Scotland;</hi> to the Parliament aſſembled at <hi>Edinburgh,</hi> concerning the diſ-ingaging of a war with <hi>England;</hi> as alſo, touching the Parliament, and Army.</p>
+            <p>Likewiſe, the progreſſe of the Scots Army under the com<g ref="char:EOLhyphen"/>mand of the Earl of <hi>Calender,</hi> with their approach neer the Confines of <hi>England.</hi> And the gallant preparations of Sir <hi>Arthur Haſlerig,</hi> Go<g ref="char:EOLhyphen"/>vernour of Newcaſtle.</p>
+            <p>Alſo, a Declaration of the Parliaments Army in the King<g ref="char:EOLhyphen"/>dome of <hi>Ireland,</hi> under the command or Colonell <hi>Iones,</hi> concerning the Lord <hi>Inchiquin's</hi> diſſert<g ref="char:EOLhyphen"/>ing the Parliament of <hi>England,</hi> and de<g ref="char:EOLhyphen"/>claring for the KING.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>April</hi> 20. 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>Imprimatur</p>
+                  <closer>
+                     <signed>Gilb. Mabbott.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON, Printed for R. W. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:161612:2"/>
+            <pb n="1" facs="tcp:161612:2"/>
+            <head>Letters from IRELAND Scotland, <hi>and the</hi> North, <hi>relating the true</hi> Affaires from all the ſaid places.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg> Suppoſe you are not ignorant of the ſad condition we are in, by meanes of the Traitrous procee<g ref="char:EOLhyphen"/>dings of the Lord <hi>Inchiquin</hi> a<g ref="char:EOLhyphen"/>gainſt the Parliament, and King<g ref="char:EOLhyphen"/>dome, in that he hath betraied the truſt repoſed in him, and declared, that he will not acknowledge the Parliament of Eng<g ref="char:EOLhyphen"/>land to be a Parliament, neither will he ſubmit to any Order or Ordinances of Parliament; but on the con<g ref="char:EOLhyphen"/>trary, if occaſion ſerve, oppoſe them: he hath alſo by his Agents, endeavoured to perſwade the Prote<g ref="char:EOLhyphen"/>ſtant forces in other parts of this Kingdome, to deſert the Parliaments and Proteſtants cauſe, and joyn with him, under a pretence of no body knowes what, but himſelfe: it is greatly feared he will joyn with the Re<g ref="char:EOLhyphen"/>bels, but as yet he keeps thoſe forces which adhere un<g ref="char:EOLhyphen"/>to him, in a body by themſelves, without admitting a<g ref="char:EOLhyphen"/>ny
+<pb n="2" facs="tcp:161612:3"/>Iriſh to march under his command, yet there is a Ceſſation of War concluded between them and the Lord <hi>Inchiquin;</hi> and by the correſpondency which is held between them, wee may aſſuredly gather, that when need requires, they will uſe their endeavours to aſſiſt each other; <hi>Inchiquin</hi> hath gathered his forces into a body, and is marching into a body, and is mar<g ref="char:EOLhyphen"/>ching towards Dublin, as it is thought, with an intent to beſiege the City, and if it be poſſible, by force or policy to get it into his poſſeſſion, and this ſuppoſition is not without ſome ground, for thoſe of <hi>Inchiquins</hi> party give out, that all thoſe that wil not joyne with him, were beſt to pack away for <hi>England,</hi> and if any oppoſe him, they ſhal receive ſuch a reward as ſhall prove a terrour to others, if hee ſhould ever have a ſtrength to ſet down before the City, it is much dou<g ref="char:EOLhyphen"/>bted that ſome of the ſouldiers wil be too forward to run unto him; but for the generality, they declare themſelves very averſe to his proceedings, and do de<g ref="char:EOLhyphen"/>clare that with the utmoſt ability, &amp; expence of their bloud and lives, they wil uſe their endeavours to op<g ref="char:EOLhyphen"/>poſe him, and bring him to his deſerved punniſhment and if they know any of their fellow Souldiers or of<g ref="char:EOLhyphen"/>ficers that ſhall adhere unto him or but ſeeme to favour or give any liking to his undertakings, they will upon the firſt knowledge thereof lay hands on them and bring them forth unto exclaima<g ref="char:EOLhyphen"/>tion or commit them to cuſtody where they may re<g ref="char:EOLhyphen"/>main, untill ſuch time as they may have convenient triall concerning the Premiſes; ſuch a hatred have the well affected to the cauſe againſt his proceedings.</p>
+                  <pb n="3" facs="tcp:161612:3"/>
+                  <p>This is the condition that at the preſent this City is in, you ſee we are in a very ſad condition, and likely to bee made a prey, unto thoſe more then barbarous bloud-thirſty inhumane Rebels, who have, as it were with devouring jaws, long gaped to devour us, and which by meanes of our own diviſions and diſtractions, they wil undoubtedly bring to paſſe, if the Engliſh parliament do not take us into their ſerious conſiderations, and ſpeedily contrive ſome way to relieve us, and prevent the inevitable ruine which now thre<g ref="char:EOLhyphen"/>tens us, and wil ſpeedily take us, if not prevented by their wiſdomes, whom next under God, have preſerved us hither<g ref="char:EOLhyphen"/>to, and for whom we are ever bound to pray.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Dublin</hi>
+                        <date>12. <hi>April</hi> 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Declaratory Letters from the Kingdom of <hi>Scotland.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>IT is concluded in Scotland that an army ſhal be ſent in<g ref="char:EOLhyphen"/>to England, and although many wil not be perſwaded to believe it, yet it may be eaſily gathered, that ſuch a thing is intended, and wil ſpeedily be effected, if not prevented; for the Scots army draws Southward, and many of them are ordered to be quartered neer the Borders, the Lord <hi>Belca<g ref="char:EOLhyphen"/>rouſe</hi> Troop have taken up their quarters within five miles of Berwick, having order ſo to doe. Many other Troopes have quarters aſſigned them in the South of Scotland, and eſpecialy in the Townes and Villages nrer adjoyning to <hi>England;</hi> alſo from other parts of Scotland we perceive the Scots Forces to creep Southward, but they are wary, and do it by little and little, the better to avoid ſuſpition, but if their intents are, as is ſuſpected, <hi>England</hi> may chance to fruſtrate their deſigns, and the Scots after all their jugling be decei<g ref="char:EOLhyphen"/>ved of their expectations.</p>
+               </body>
+            </floatingText>
+            <pb facs="tcp:161612:4"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>Sir, <hi>Arthur Haſlorig,</hi> keepes a vigilant eye over the <hi>Malignants</hi> of <hi>Newcaſtle,</hi> and is very carefull as be<g ref="char:EOLhyphen"/>comes a Governour of a place of that ſtrength to ſee and provide all things fit for the ſafety and fortifica<g ref="char:EOLhyphen"/>tion and defence of the Town, and Caſtle, and will quickly be able to defend it againſt any force or com<g ref="char:EOLhyphen"/>bination whatſoever, yet in theſe parts the Malignants that a long time have been glad to keep ſilence begin to talk high againe as if they were poſſeſt with ſome great hope, and had great expectations of a third to accompliſh their deſign, and ſome ill affected Stew<g ref="char:EOLhyphen"/>ards have been ſo bold as in open court, publickly to declare &amp; charge their <hi>Iuries,</hi> to preſent all ſuch perſons in their Juriſdictions as have taken up Armes againſt the King, and to fine and puniſh them, and Sir <hi>Richaad Graham</hi> at <hi>Cumberland,</hi> at a Court gave charge to all his Tenants, that they ſhould be ready when he ſhould have occation to call them, and the Cava<g ref="char:EOLhyphen"/>liers are fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bold as to incourage the peopl ſaying, fight for <hi>King Charles,</hi> and if you will you ſhall ſpeedily be imployed.</p>
+                  <p>
+                     <hi>The Parliament of</hi> Scotland <hi>have given anſwer to the</hi> Engliſh Commiſſioners <hi>papers, but it is ſaid to be ve<g ref="char:EOLhyphen"/>ry unſatisfactory. and that they refer the ſubſtance of all to their own</hi> Commiſſioners <hi>who are comming into</hi> England, <hi>of whom the Lord</hi> Lee <hi>is one to treat with the Parliament, and have</hi> Propoſitions <hi>and inſtructions given them,</hi> to treat about ſetling Religion according to the Covenant for the King his removall to one of his houſe, and a perſonall treaty with him as alſo for disbanding the Army and other Propoſitions that I have not as yet; the certainty of the difference between the Clergy and ſtate is as great as ever, they will by no meanes conſent to the raiſing of men, liſting in di<g ref="char:EOLhyphen"/>vers
+<pb n="5" facs="tcp:161612:4"/>parts of this Kingdome; 'tis ſuppoſed 'twill be ſpee<g ref="char:EOLhyphen"/>dily effected; and becauſe many of the Commanders of the ſtanding Forces of this Kingdome do not concur with them in this deſign, thoſe Forces are to be disbanded, and the Earl of <hi>Calender</hi> is to be General of their new <hi>Modell;</hi> inſomuch, that the Cavees and Engliſh Fugitives grow very high, trea<g ref="char:EOLhyphen"/>ting ruine and deſtruction to the Parliament and their Ad<g ref="char:EOLhyphen"/>herents.</p>
+                  <p>But indeed, ſome dayes there are great hopes of an agreement, and other days the diſtance is ſo farre, as ſcarce any man ſhal know how neer they are to have an Army: ma<g ref="char:EOLhyphen"/>ny Engliſh men are at Edenburgh, and they doe dayly in<g ref="char:EOLhyphen"/>creaſe. Another great ſhip came to Leeth Rode on Fryday night laſt; what ſhe is, is not yet known, but a flying Report of the Prince being in her, but no certainty. Some Iriſh Re<g ref="char:EOLhyphen"/>bels are come into ſome of the Scots Iſlands, and the Maro. of <hi>Argyles</hi> Regiment are directed, with ſome others, to march towards them. This is all, I earneſtly requeſt a correſpon<g ref="char:EOLhyphen"/>dency weekly, and where I ſhal direct my Le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er unto you, that I may take the occaſion to ſubſcribe my ſelf.</p>
+                  <closer>
+                     <signed>
+                        <hi>Your oblieged ſervant,</hi> R. S:</signed>
+                     <dateline>
+                        <hi>Barwick</hi>
+                        <date>12 <hi>April,</hi> 1648.</date>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <head>Poſtſcript.</head>
+                     <p>Since the writing hereof we hear that the Parliament of Scotland have given an anſwer to our Commiſſioners pa<g ref="char:EOLhyphen"/>pers, but it is ſaid to be very unſatisfactory, and that they re<g ref="char:EOLhyphen"/>fer the ſubſtance of all to their own Commiſſioners which are comming into <hi>England</hi> to treat with the Parliament.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:161612:5"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>IN the Marq. of Argyles Countrey, there is riſen up in Arms one commonly called <hi>Kolkittoh,</hi> which hath cau<g ref="char:EOLhyphen"/>ſed ſome of the Forces that lay in the South of Scotland to march Northward for the ſuppreſſion of them, all the Of<g ref="char:EOLhyphen"/>ficers in the ſtanding Army or Scotland except Lieutenant General Middleton) have petitioned to the Parliament, and preſented theſe Propoſals, <hi>viz.</hi> 1. <hi>That they will be pleaſed to conſult with the Miniſters of the Kirk, in relation to their proceedings touching the Kingdome of</hi> England.</p>
+                  <p n="2">2. <hi>That they will be pleaſed not to ingage in a War against their Brethren of</hi> England, <hi>unleſſe the Kirk of</hi> Scotland <hi>doe concur therein.</hi>
+                  </p>
+                  <p>His Excellency Gen. <hi>Leven,</hi> and the reſt of the Officers of the Standing army, have declared their unwillingneſſe to in<g ref="char:EOLhyphen"/>gage in a war againſt the Kingdome of <hi>England,</hi> Parliament, and army. Sir, I am</p>
+                  <closer>
+                     <signed>Your aſsured loving friend, <hi>R. G.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>Barwick</hi>
+                        <date>12 <hi>April,</hi> 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
